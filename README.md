@@ -1,1 +1,1 @@
-# animal-project
+# quiz-project
